@@ -1,0 +1,34 @@
+project:
+  type: default
+  output-dir: docs
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    fig-align: center
+    self-contained: true
+    code-fold: true
+    code-tools: true
+  pdf:
+    documentclass: article
+    classoption: [letterpaper, 11pt]
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1.25in
+      - right=1in
+    number-sections: true
+    colorlinks: true
+    pdf-engine: latexmk
+    pdf-engine-opts:
+      - "-lualatex"
+
+bibliography: references.bib
+
+execute:
+  warning: false
+  message: false
+  echo: true

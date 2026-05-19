@@ -1,0 +1,16 @@
+.env
+*.pkl
+*.joblib
+data/raw/eng-all_sgns/
+data/raw/*.zip
+data/raw/coha*/
+data/processed/
+.quarto/
+docs/.quarto/
+__pycache__/
+*.pyc
+.DS_Store
+.netlify/
+
+/.quarto/
+**/*.quarto_ipynb
