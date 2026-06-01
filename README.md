@@ -8,7 +8,7 @@ Do words associated with emerging technologies undergo semantic change faster th
 
 ## Read Online
 
-**[https://altustd.github.io/semantic-drift-tech/](https://altustd.github.io/semantic-drift-tech/)**
+**[https://altustd.github.io/semantic-drift-tech/semantic-drift-tech.html](https://altustd.github.io/semantic-drift-tech/semantic-drift-tech.html)** (full interactive paper)
 
 ---
 
